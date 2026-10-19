@@ -164,6 +164,12 @@ node mastery.mjs
 
 ---
 
+## 相关项目
+
+- **[yuketang-multispeed](https://github.com/Maltts/yuketang-multispeed)** — 雨课堂视频 5 倍速自动连播，同一套 CDP 技术栈，含「为什么 5 倍是上限」的实测数据
+
+---
+
 ## License
 
 [MIT](LICENSE)
